@@ -1,0 +1,40 @@
+body{
+height:100Vh;
+background: linear-gradient(135deg, #f0f4ff, #e2f7e1, #fffbe6);
+}
+.gradient-background-1{
+    height:auto;
+    background: linear-gradient(135deg, #cceeff, #87CEEB, #AAF0D1);
+}
+.div-size-1{
+    width:40%;
+}
+.About{
+  color:#333333;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bold;
+}
+.gradient-background-2{
+    height:auto;
+    background: linear-gradient(135deg, #f0f4ff, #e2f7e1, #fffbe6) ;
+    display: flex;
+    justify-content: center;
+}
+.goal-heading {
+  color: #FF8C00;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+}
+.gradient-background-3 {
+  background: linear-gradient(135deg, #fffbe6, #f0f4ff);
+}
+
+.flex{
+    display:flex;
+    flex-direction: row;
+}
+.card-flex{
+    display: flex;
+    justify-content: space-around;
+}
